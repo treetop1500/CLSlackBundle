@@ -1,8 +1,8 @@
 <?php
 
-namespace CL\Bundle\SlackBundle\Tests\DependencyInjection\Compiler;
+namespace Treetop1500\Bundle\SlackBundle\Tests\DependencyInjection\Compiler;
 
-use CL\Bundle\SlackBundle\DependencyInjection\Compiler\RegisterApiClientPass;
+use Treetop1500\Bundle\SlackBundle\DependencyInjection\Compiler\RegisterApiClientPass;
 use Matthias\SymfonyDependencyInjectionTest\PhpUnit\AbstractCompilerPassTestCase;
 use Matthias\SymfonyDependencyInjectionTest\PhpUnit\ContainerBuilderHasAliasConstraint;
 use Symfony\Component\DependencyInjection\ContainerBuilder;

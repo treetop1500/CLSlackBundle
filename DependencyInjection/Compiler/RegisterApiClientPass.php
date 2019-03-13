@@ -1,6 +1,6 @@
 <?php
 
-namespace CL\Bundle\SlackBundle\DependencyInjection\Compiler;
+namespace Treetop1500\Bundle\SlackBundle\DependencyInjection\Compiler;
 
 use Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface;
 use Symfony\Component\DependencyInjection\ContainerBuilder;

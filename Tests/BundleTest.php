@@ -1,9 +1,9 @@
 <?php
 
-namespace CL\Bundle\SlackBundle\Tests\DependencyInjection\Compiler;
+namespace Treetop1500\Bundle\SlackBundle\Tests\DependencyInjection\Compiler;
 
-use CL\Bundle\SlackBundle\CLSlackBundle;
-use CL\Bundle\SlackBundle\DependencyInjection\Compiler\RegisterApiClientPass;
+use Treetop1500\Bundle\SlackBundle\CLSlackBundle;
+use Treetop1500\Bundle\SlackBundle\DependencyInjection\Compiler\RegisterApiClientPass;
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 
 class BundleTest extends \PHPUnit_Framework_TestCase

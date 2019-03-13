@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace CL\Bundle\SlackBundle\DependencyInjection;
+namespace Treetop1500\Bundle\SlackBundle\DependencyInjection;
 
 use Symfony\Component\Config\FileLocator;
 use Symfony\Component\DependencyInjection\ContainerBuilder;

@@ -1,8 +1,8 @@
 <?php
 
-namespace CL\Bundle\SlackBundle\Tests\DependencyInjection;
+namespace Treetop1500\Bundle\SlackBundle\Tests\DependencyInjection;
 
-use CL\Bundle\SlackBundle\DependencyInjection\CLSlackExtension;
+use Treetop1500\Bundle\SlackBundle\DependencyInjection\CLSlackExtension;
 use Matthias\SymfonyDependencyInjectionTest\PhpUnit\AbstractExtensionTestCase;
 
 class ExtensionTest extends AbstractExtensionTestCase

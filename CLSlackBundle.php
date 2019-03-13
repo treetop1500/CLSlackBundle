@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace CL\Bundle\SlackBundle;
+namespace Treetop1500\Bundle\SlackBundle;
 
-use CL\Bundle\SlackBundle\DependencyInjection\Compiler\RegisterApiClientPass;
+use Treetop1500\Bundle\SlackBundle\DependencyInjection\Compiler\RegisterApiClientPass;
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
